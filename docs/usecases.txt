@@ -1,0 +1,2 @@
+## Testers
+1. Execute smoke tests on premise and cloud deployments
