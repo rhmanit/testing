@@ -1,5 +1,7 @@
 ## Testers
 1. Execute smoke tests on premise and cloud deployments
+2. Execute selenium automated Tests
+3. Add them to CI
 
 ## Devops
 
